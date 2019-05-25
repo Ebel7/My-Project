@@ -1,2 +1,2 @@
 # My-Project
-I hope this works. 
+My first Goal: Create a UI demo
